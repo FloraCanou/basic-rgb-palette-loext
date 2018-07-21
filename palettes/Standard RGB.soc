@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ooo:color-table xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"
+xmlns:ooo="http://openoffice.org/2004/office">"
+    <draw:color draw:color="#000000" draw:name="Black"/>
+    <draw:color draw:color="#1A1A1A" draw:name="Gray 10%"/>
+    <draw:color draw:color="#333333" draw:name="Gray 20%"/>
+    <draw:color draw:color="#4D4D4D" draw:name="Gray 30%"/>
+    <draw:color draw:color="#666666" draw:name="Gray 40%"/>
+    <draw:color draw:color="#808080" draw:name="Gray 50%"/>
+    <draw:color draw:color="#999999" draw:name="Gray 60%"/>
+    <draw:color draw:color="#B3B3B3" draw:name="Gray 70%"/>
+    <draw:color draw:color="#CCCCCC" draw:name="Gray 80%"/>
+    <draw:color draw:color="#E6E6E6" draw:name="Gray 90%"/>
+    <draw:color draw:color="#F2F2F2" draw:name="Gray 95%"/>
+    <draw:color draw:color="#FFFFFF" draw:name="White"/>
+    <draw:color draw:color="#FF4040" draw:name="Red"/>
+    <draw:color draw:color="#EE8011" draw:name="Orange"/>
+    <draw:color draw:color="#BFBF00" draw:name="Yellow"/>
+    <draw:color draw:color="#80EE11" draw:name="Lime"/>
+    <draw:color draw:color="#40FF40" draw:name="Green"/>
+    <draw:color draw:color="#11EE80" draw:name="Turquoise"/>
+    <draw:color draw:color="#00BFBF" draw:name="Cyan"/>
+    <draw:color draw:color="#1180EE" draw:name="Azure"/>
+    <draw:color draw:color="#4040FF" draw:name="Blue"/>
+    <draw:color draw:color="#8011EE" draw:name="Violet"/>
+    <draw:color draw:color="#BF00BF" draw:name="Magenta"/>
+    <draw:color draw:color="#EE1180" draw:name="Rose"/>
+    <draw:color draw:color="#FFC6C6" draw:name="Red Light 4"/>
+    <draw:color draw:color="#FAD9B8" draw:name="Orange Light 4"/>
+    <draw:color draw:color="#ECECB3" draw:name="Yellow Light 4"/>
+    <draw:color draw:color="#D9FAB8" draw:name="Lime Light 4"/>
+    <draw:color draw:color="#C6FFC6" draw:name="Green Light 4"/>
+    <draw:color draw:color="#B8FAD9" draw:name="Turquoise Light 4"/>
+    <draw:color draw:color="#B3ECEC" draw:name="Cyan Light 4"/>
+    <draw:color draw:color="#B8D9FA" draw:name="Azure Light 4"/>
+    <draw:color draw:color="#C6C6FF" draw:name="Blue Light 4"/>
+    <draw:color draw:color="#D9B8FA" draw:name="Violet Light 4"/>
+    <draw:color draw:color="#ECB3EC" draw:name="Magenta Light 4"/>
+    <draw:color draw:color="#FAB8D9" draw:name="Rose Light 4"/>
+    <draw:color draw:color="#E6ACAC" draw:name="Red Light 3"/>
+    <draw:color draw:color="#E0BF9E" draw:name="Orange Light 3"/>
+    <draw:color draw:color="#D2D299" draw:name="Yellow Light 3"/>
+    <draw:color draw:color="#BFE09E" draw:name="Lime Light 3"/>
+    <draw:color draw:color="#ACE6AC" draw:name="Green Light 3"/>
+    <draw:color draw:color="#9EE0BF" draw:name="Turquoise Light 3"/>
+    <draw:color draw:color="#99D2D2" draw:name="Cyan Light 3"/>
+    <draw:color draw:color="#9EBFE0" draw:name="Azure Light 3"/>
+    <draw:color draw:color="#ACACE6" draw:name="Blue Light 3"/>
+    <draw:color draw:color="#BF9EE0" draw:name="Violet Light 3"/>
+    <draw:color draw:color="#D299D2" draw:name="Magenta Light 3"/>
+    <draw:color draw:color="#E09EBF" draw:name="Rose Light 3"/>
+    <draw:color draw:color="#CC9393" draw:name="Red Light 2"/>
+    <draw:color draw:color="#C7A685" draw:name="Orange Light 2"/>
+    <draw:color draw:color="#B9B980" draw:name="Yellow Light 2"/>
+    <draw:color draw:color="#A6C785" draw:name="Lime Light 2"/>
+    <draw:color draw:color="#93CC93" draw:name="Green Light 2"/>
+    <draw:color draw:color="#85C7A6" draw:name="Turquoise Light 2"/>
+    <draw:color draw:color="#80B9B9" draw:name="Cyan Light 2"/>
+    <draw:color draw:color="#85A6C7" draw:name="Azure Light 2"/>
+    <draw:color draw:color="#9393CC" draw:name="Blue Light 2"/>
+    <draw:color draw:color="#A685C7" draw:name="Violet Light 2"/>
+    <draw:color draw:color="#B980B9" draw:name="Magenta Light 2"/>
+    <draw:color draw:color="#C785A6" draw:name="Rose Light 2"/>
+    <draw:color draw:color="#B37979" draw:name="Red Light 1"/>
+    <draw:color draw:color="#AD8C6B" draw:name="Orange Light 1"/>
+    <draw:color draw:color="#9F9F66" draw:name="Yellow Light 1"/>
+    <draw:color draw:color="#8CAD6B" draw:name="Lime Light 1"/>
+    <draw:color draw:color="#79B379" draw:name="Green Light 1"/>
+    <draw:color draw:color="#6BAD8C" draw:name="Turquoise Light 1"/>
+    <draw:color draw:color="#669F9F" draw:name="Cyan Light 1"/>
+    <draw:color draw:color="#6B8CAD" draw:name="Azure Light 1"/>
+    <draw:color draw:color="#7979B3" draw:name="Blue Light 1"/>
+    <draw:color draw:color="#8C6BAD" draw:name="Violet Light 1"/>
+    <draw:color draw:color="#9F669F" draw:name="Magenta Light 1"/>
+    <draw:color draw:color="#AD6B8C" draw:name="Rose Light 1"/>
+    <draw:color draw:color="#996060" draw:name="Red Dark 1"/>
+    <draw:color draw:color="#947352" draw:name="Orange Dark 1"/>
+    <draw:color draw:color="#86864D" draw:name="Yellow Dark 1"/>
+    <draw:color draw:color="#739452" draw:name="Lime Dark 1"/>
+    <draw:color draw:color="#609960" draw:name="Green Dark 1"/>
+    <draw:color draw:color="#529473" draw:name="Turquoise Dark 1"/>
+    <draw:color draw:color="#4D8686" draw:name="Cyan Dark 1"/>
+    <draw:color draw:color="#527394" draw:name="Azure Dark 1"/>
+    <draw:color draw:color="#606099" draw:name="Blue Dark 1"/>
+    <draw:color draw:color="#725294" draw:name="Violet Dark 1"/>
+    <draw:color draw:color="#864D86" draw:name="Magenta Dark 1"/>
+    <draw:color draw:color="#945273" draw:name="Rose Dark 1"/>
+    <draw:color draw:color="#804646" draw:name="Red Dark 2"/>
+    <draw:color draw:color="#7A5938" draw:name="Orange Dark 2"/>
+    <draw:color draw:color="#6C6C33" draw:name="Yellow Dark 2"/>
+    <draw:color draw:color="#597A38" draw:name="Lime Dark 2"/>
+    <draw:color draw:color="#468046" draw:name="Green Dark 2"/>
+    <draw:color draw:color="#387A59" draw:name="Turquoise Dark 2"/>
+    <draw:color draw:color="#336C6C" draw:name="Cyan Dark 2"/>
+    <draw:color draw:color="#38597A" draw:name="Azure Dark 2"/>
+    <draw:color draw:color="#464680" draw:name="Blue Dark 2"/>
+    <draw:color draw:color="#59387A" draw:name="Violet Dark 2"/>
+    <draw:color draw:color="#6C336C" draw:name="Magenta Dark 2"/>
+    <draw:color draw:color="#7A3859" draw:name="Rose Dark 2"/>
+    <draw:color draw:color="#662D2D" draw:name="Red Dark 3"/>
+    <draw:color draw:color="#61401F" draw:name="Orange Dark 3"/>
+    <draw:color draw:color="#53531A" draw:name="Yellow Dark 3"/>
+    <draw:color draw:color="#40611F" draw:name="Lime Dark 3"/>
+    <draw:color draw:color="#2D662D" draw:name="Green Dark 3"/>
+    <draw:color draw:color="#1F6140" draw:name="Turquoise Dark 3"/>
+    <draw:color draw:color="#1A5353" draw:name="Cyan Dark 3"/>
+    <draw:color draw:color="#1F4061" draw:name="Azure Dark 3"/>
+    <draw:color draw:color="#2D2D66" draw:name="Blue Dark 3"/>
+    <draw:color draw:color="#401F61" draw:name="Violet Dark 3"/>
+    <draw:color draw:color="#531A53" draw:name="Magenta Dark 3"/>
+    <draw:color draw:color="#611F40" draw:name="Rose Dark 3"/>
+    <draw:color draw:color="#4D1313" draw:name="Red Dark 4"/>
+    <draw:color draw:color="#472605" draw:name="Orange Dark 4"/>
+    <draw:color draw:color="#393900" draw:name="Yellow Dark 4"/>
+    <draw:color draw:color="#264705" draw:name="Lime Dark 4"/>
+    <draw:color draw:color="#134D13" draw:name="Green Dark 4"/>
+    <draw:color draw:color="#054726" draw:name="Turquoise Dark 4"/>
+    <draw:color draw:color="#003939" draw:name="Cyan Dark 4"/>
+    <draw:color draw:color="#052647" draw:name="Azure Dark 4"/>
+    <draw:color draw:color="#13134D" draw:name="Blue Dark 4"/>
+    <draw:color draw:color="#260547" draw:name="Violet Dark 4"/>
+    <draw:color draw:color="#390039" draw:name="Magenta Dark 4"/>
+    <draw:color draw:color="#470526" draw:name="Rose Dark 4"/>
+</ooo:color-table>
