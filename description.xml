@@ -5,7 +5,7 @@
     xmlns:lo="http://libreoffice.org/extensions/description/2011"
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <identifier value="standardrgb"/>
-    <version value="1.0.0"/>
+    <version value="1.0.1"/>
     <dependencies>
        <lo:LibreOffice-minimal-version d:name="LibreOffice 5.3" value="5.3"/>
     </dependencies>

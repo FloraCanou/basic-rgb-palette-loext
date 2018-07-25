@@ -16,7 +16,7 @@ xmlns:ooo="http://openoffice.org/2004/office">"
     <draw:color draw:color="#FF4040" draw:name="Red"/>
     <draw:color draw:color="#EE8011" draw:name="Orange"/>
     <draw:color draw:color="#BFBF00" draw:name="Yellow"/>
-    <draw:color draw:color="#80EE11" draw:name="Lime"/>
+    <draw:color draw:color="#80EE11" draw:name="Chartreuse"/>
     <draw:color draw:color="#40FF40" draw:name="Green"/>
     <draw:color draw:color="#11EE80" draw:name="Turquoise"/>
     <draw:color draw:color="#00BFBF" draw:name="Cyan"/>
@@ -28,7 +28,7 @@ xmlns:ooo="http://openoffice.org/2004/office">"
     <draw:color draw:color="#FFC6C6" draw:name="Red Light 4"/>
     <draw:color draw:color="#FAD9B8" draw:name="Orange Light 4"/>
     <draw:color draw:color="#ECECB3" draw:name="Yellow Light 4"/>
-    <draw:color draw:color="#D9FAB8" draw:name="Lime Light 4"/>
+    <draw:color draw:color="#D9FAB8" draw:name="Chartreuse Light 4"/>
     <draw:color draw:color="#C6FFC6" draw:name="Green Light 4"/>
     <draw:color draw:color="#B8FAD9" draw:name="Turquoise Light 4"/>
     <draw:color draw:color="#B3ECEC" draw:name="Cyan Light 4"/>
@@ -40,7 +40,7 @@ xmlns:ooo="http://openoffice.org/2004/office">"
     <draw:color draw:color="#E6ACAC" draw:name="Red Light 3"/>
     <draw:color draw:color="#E0BF9E" draw:name="Orange Light 3"/>
     <draw:color draw:color="#D2D299" draw:name="Yellow Light 3"/>
-    <draw:color draw:color="#BFE09E" draw:name="Lime Light 3"/>
+    <draw:color draw:color="#BFE09E" draw:name="Chartreuse Light 3"/>
     <draw:color draw:color="#ACE6AC" draw:name="Green Light 3"/>
     <draw:color draw:color="#9EE0BF" draw:name="Turquoise Light 3"/>
     <draw:color draw:color="#99D2D2" draw:name="Cyan Light 3"/>
@@ -52,7 +52,7 @@ xmlns:ooo="http://openoffice.org/2004/office">"
     <draw:color draw:color="#CC9393" draw:name="Red Light 2"/>
     <draw:color draw:color="#C7A685" draw:name="Orange Light 2"/>
     <draw:color draw:color="#B9B980" draw:name="Yellow Light 2"/>
-    <draw:color draw:color="#A6C785" draw:name="Lime Light 2"/>
+    <draw:color draw:color="#A6C785" draw:name="Chartreuse Light 2"/>
     <draw:color draw:color="#93CC93" draw:name="Green Light 2"/>
     <draw:color draw:color="#85C7A6" draw:name="Turquoise Light 2"/>
     <draw:color draw:color="#80B9B9" draw:name="Cyan Light 2"/>
@@ -64,7 +64,7 @@ xmlns:ooo="http://openoffice.org/2004/office">"
     <draw:color draw:color="#B37979" draw:name="Red Light 1"/>
     <draw:color draw:color="#AD8C6B" draw:name="Orange Light 1"/>
     <draw:color draw:color="#9F9F66" draw:name="Yellow Light 1"/>
-    <draw:color draw:color="#8CAD6B" draw:name="Lime Light 1"/>
+    <draw:color draw:color="#8CAD6B" draw:name="Chartreuse Light 1"/>
     <draw:color draw:color="#79B379" draw:name="Green Light 1"/>
     <draw:color draw:color="#6BAD8C" draw:name="Turquoise Light 1"/>
     <draw:color draw:color="#669F9F" draw:name="Cyan Light 1"/>
@@ -76,7 +76,7 @@ xmlns:ooo="http://openoffice.org/2004/office">"
     <draw:color draw:color="#996060" draw:name="Red Dark 1"/>
     <draw:color draw:color="#947352" draw:name="Orange Dark 1"/>
     <draw:color draw:color="#86864D" draw:name="Yellow Dark 1"/>
-    <draw:color draw:color="#739452" draw:name="Lime Dark 1"/>
+    <draw:color draw:color="#739452" draw:name="Chartreuse Dark 1"/>
     <draw:color draw:color="#609960" draw:name="Green Dark 1"/>
     <draw:color draw:color="#529473" draw:name="Turquoise Dark 1"/>
     <draw:color draw:color="#4D8686" draw:name="Cyan Dark 1"/>
@@ -88,7 +88,7 @@ xmlns:ooo="http://openoffice.org/2004/office">"
     <draw:color draw:color="#804646" draw:name="Red Dark 2"/>
     <draw:color draw:color="#7A5938" draw:name="Orange Dark 2"/>
     <draw:color draw:color="#6C6C33" draw:name="Yellow Dark 2"/>
-    <draw:color draw:color="#597A38" draw:name="Lime Dark 2"/>
+    <draw:color draw:color="#597A38" draw:name="Chartreuse Dark 2"/>
     <draw:color draw:color="#468046" draw:name="Green Dark 2"/>
     <draw:color draw:color="#387A59" draw:name="Turquoise Dark 2"/>
     <draw:color draw:color="#336C6C" draw:name="Cyan Dark 2"/>
@@ -100,7 +100,7 @@ xmlns:ooo="http://openoffice.org/2004/office">"
     <draw:color draw:color="#662D2D" draw:name="Red Dark 3"/>
     <draw:color draw:color="#61401F" draw:name="Orange Dark 3"/>
     <draw:color draw:color="#53531A" draw:name="Yellow Dark 3"/>
-    <draw:color draw:color="#40611F" draw:name="Lime Dark 3"/>
+    <draw:color draw:color="#40611F" draw:name="Chartreuse Dark 3"/>
     <draw:color draw:color="#2D662D" draw:name="Green Dark 3"/>
     <draw:color draw:color="#1F6140" draw:name="Turquoise Dark 3"/>
     <draw:color draw:color="#1A5353" draw:name="Cyan Dark 3"/>
@@ -112,7 +112,7 @@ xmlns:ooo="http://openoffice.org/2004/office">"
     <draw:color draw:color="#4D1313" draw:name="Red Dark 4"/>
     <draw:color draw:color="#472605" draw:name="Orange Dark 4"/>
     <draw:color draw:color="#393900" draw:name="Yellow Dark 4"/>
-    <draw:color draw:color="#264705" draw:name="Lime Dark 4"/>
+    <draw:color draw:color="#264705" draw:name="Chartreuse Dark 4"/>
     <draw:color draw:color="#134D13" draw:name="Green Dark 4"/>
     <draw:color draw:color="#054726" draw:name="Turquoise Dark 4"/>
     <draw:color draw:color="#003939" draw:name="Cyan Dark 4"/>
