@@ -2,17 +2,17 @@
 <ooo:color-table xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"
 xmlns:ooo="http://openoffice.org/2004/office">"
     <draw:color draw:color="#000000" draw:name="Black"/>
-    <draw:color draw:color="#1A1A1A" draw:name="Gray 10%"/>
-    <draw:color draw:color="#333333" draw:name="Gray 20%"/>
-    <draw:color draw:color="#4D4D4D" draw:name="Gray 30%"/>
-    <draw:color draw:color="#666666" draw:name="Gray 40%"/>
-    <draw:color draw:color="#808080" draw:name="Gray 50%"/>
-    <draw:color draw:color="#999999" draw:name="Gray 60%"/>
-    <draw:color draw:color="#B3B3B3" draw:name="Gray 70%"/>
-    <draw:color draw:color="#CCCCCC" draw:name="Gray 80%"/>
-    <draw:color draw:color="#E6E6E6" draw:name="Gray 90%"/>
+    <draw:color draw:color="#262626" draw:name="Gray 15%"/>
+    <draw:color draw:color="#404040" draw:name="Gray 25%"/>
+    <draw:color draw:color="#595959" draw:name="Gray 35%"/>
+    <draw:color draw:color="#737373" draw:name="Gray 45%"/>
+    <draw:color draw:color="#8C8C8C" draw:name="Gray 55%"/>
+    <draw:color draw:color="#A6A6A6" draw:name="Gray 65%"/>
+    <draw:color draw:color="#BFBFBF" draw:name="Gray 75%"/>
+    <draw:color draw:color="#D9D9D9" draw:name="Gray 85%"/>
     <draw:color draw:color="#F2F2F2" draw:name="Gray 95%"/>
     <draw:color draw:color="#FFFFFF" draw:name="White"/>
+    <draw:color draw:color="#808080" draw:name="Gray 50%"/>
     <draw:color draw:color="#FF4040" draw:name="Red"/>
     <draw:color draw:color="#EE8011" draw:name="Orange"/>
     <draw:color draw:color="#BFBF00" draw:name="Yellow"/>
